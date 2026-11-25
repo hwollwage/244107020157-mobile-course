@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"auth-security-fcm","appId":"1:292920444613:android:bd9ad3e401fb1899ea52ac","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"auth-security-fcm","configurations":{"android":"1:292920444613:android:bd9ad3e401fb1899ea52ac"}}}}}}
